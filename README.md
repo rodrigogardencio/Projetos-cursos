@@ -1,2 +1,2 @@
-# Projetos cursos
- Projetos dos cursos de programação
+# Projetos cursos.
+ Projetos dos cursos de programação.
